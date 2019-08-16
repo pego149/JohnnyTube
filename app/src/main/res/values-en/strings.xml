@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JohnnyTube</string>
+    <string name="developer_key">AIzaSyDUEZRDVEZobaKU3EfJ-HARTLP0j3wT7hs</string>
+    <string name="title_activity_player">Player</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_help">Search videos on YouTube</string>
+    <string name="search_progress">Searching videos for: </string>
+    <string name="str_settings">Settings</string>
+    <string name="str_info">About</string>
+    <string name="str_exit">Quit</string>
+    <string name="close">Close</string>
+    <string name="conn_err">Connection Error</string>
+    <string name="language">Language:</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="author">Author:</string>
+    <string name="created">Created:</string>
+    <string-array name="languages">
+        <item>Slovenský</item>
+        <item>English</item>
+    </string-array>
+</resources>
